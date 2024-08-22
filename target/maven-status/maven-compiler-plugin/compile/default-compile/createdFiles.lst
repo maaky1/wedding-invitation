@@ -1,0 +1,3 @@
+org\wedding_invitation\controller\InvitationController.class
+org\wedding_invitation\WeddingInvitationApplication.class
+org\wedding_invitation\model\InvitationEntity.class
